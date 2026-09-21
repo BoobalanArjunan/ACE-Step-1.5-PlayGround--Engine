@@ -177,6 +177,14 @@ ace-step-parai-playground/
 
 ---
 
+## 👤 Author
+
+**Boobalan Arjunan**  
+GitHub: [@BoobalanArjunan](https://github.com/BoobalanArjunan)  
+HuggingFace: [boobalanit](https://huggingface.co/boobalanit)
+
+---
+
 ## 🙏 Credits
 
 - [ACE-Step](https://github.com/ace-step/ACE-Step) — Original music generation engine

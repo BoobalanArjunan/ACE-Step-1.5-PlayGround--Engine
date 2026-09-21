@@ -1,6 +1,8 @@
 """
 nuke_torchaudio.py
 ==================
+Author: Boobalan Arjunan (https://github.com/BoobalanArjunan)
+Part of: ACE-Step 1.5 South Indian Parai LoRA Playground
 Runtime bypass for the PyTorch 2.10+ TorchCodec C++ crash on RunPod NAS environments.
 
 Problem:

@@ -1,3 +1,7 @@
+# compile_dataset_json.py
+# Author: Boobalan Arjunan (https://github.com/BoobalanArjunan)
+# Part of: ACE-Step 1.5 South Indian Parai LoRA Playground
+#
 import os
 import json
 import argparse

@@ -3,6 +3,7 @@
 # ==============================================================
 # train_custom_lora.sh
 # ACE-Step 1.5 — Custom Cultural Instrument LoRA Training Script
+# Author: Boobalan Arjunan (https://github.com/BoobalanArjunan)
 # ==============================================================
 #
 # USAGE:
