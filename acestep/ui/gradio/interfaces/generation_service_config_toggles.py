@@ -101,7 +101,7 @@ def build_service_toggles(
         mlx_ok = _mlx_avail()
         mlx_dit_checkbox = gr.Checkbox(
             label=t("service.mlx_dit_label"),
-            value=params.get("mlx_dit", mlx_ok) if service_pre_initialized else mlx_ok,
+            value=False,
             interactive=mlx_ok,
             info=t("service.mlx_dit_info_enabled") if mlx_ok else t("service.mlx_dit_info_disabled"),
             elem_classes=["has-info-container"],
