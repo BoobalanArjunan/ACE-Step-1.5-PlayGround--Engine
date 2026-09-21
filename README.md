@@ -5,7 +5,7 @@
 [![License: Apache 2.0](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![Platform: macOS Apple Silicon](https://img.shields.io/badge/Platform-macOS%20Apple%20Silicon-black.svg?logo=apple)](https://www.apple.com/mac/)
 [![Model: ACE-Step 1.5](https://img.shields.io/badge/Model-ACE--Step%201.5-orange.svg)](https://github.com/ace-step/ACE-Step)
-[![LoRA on HuggingFace](https://img.shields.io/badge/🤗%20LoRA-SouthIndiaParaiLoRA-yellow.svg)](https://huggingface.co/boobalanit/SouthIndiaParaiLoRA)
+[![LoRA on HuggingFace](https://img.shields.io/badge/🤗%20LoRA-ACE--Step--1.5--SouthIndiaParaiLoRA-yellow.svg)](https://huggingface.co/boobalanit/ACE-Step-1.5-SouthIndiaParaiLoRA)
 
 ---
 
